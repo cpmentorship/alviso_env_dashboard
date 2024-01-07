@@ -1,4 +1,4 @@
-# Alviso Environmental Dashboard
+# Alviso Environmental Impact Dashboard
 
 - **2024 Deliverables**
   - **January:** Air quality sensors prototype
