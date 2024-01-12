@@ -14,3 +14,7 @@
 
 
 Data Collection Github: https://github.com/cpmentorship/datacollector
+
+API Server github: git@github.com:cpmentorship/azure_data_api_server.git
+
+# Data Collector collects the sensor data and load to sql database in Azure cloud in real time.
