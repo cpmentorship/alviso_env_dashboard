@@ -15,7 +15,7 @@
 
 Data Collection Github: https://github.com/cpmentorship/datacollector
 
-API Server github: git@github.com:cpmentorship/azure_data_api_server.git
+API Server github: https://github.com:cpmentorship/azure_data_api_server
 
 ##
 
